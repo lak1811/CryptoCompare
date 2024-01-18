@@ -14,9 +14,9 @@ def compare():
 
     def compare_currencies():
         currency1 = entry_currency1.get()
-        currency1=currency1.title()
+        
         currency2 = entry_currency2.get()
-        currency2=currency2.title()
+        
         bool1=False
         bool2=False
         comparison_message=""
