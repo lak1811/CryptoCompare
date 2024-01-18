@@ -8,6 +8,7 @@ pip install pandas
 pip install python-dateutil
 
 ```
+To run this project, have all the files in one folder and run the file "interface.py" 
 
 This is the first version, but there are updates planned for this app
 
