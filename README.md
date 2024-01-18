@@ -6,6 +6,7 @@ pip install Pillow
 pip install requests
 pip install pandas
 pip install python-dateutil
+pip install tkinter
 
 ```
 To run this project, have all the files in one folder and run the file "interface.py" 
